@@ -204,4 +204,4 @@ This repository serves as the official landing page for Hearts of Iron IV. The s
 **Get the most recent version of Hearts of Iron IV today!**
 
 ---
-**Last updated:** 2026-11-07 15:23:58 UTC
+**Last updated:** 2026-11-07 19:50:20 UTC
